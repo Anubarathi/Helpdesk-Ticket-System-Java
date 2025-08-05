@@ -17,6 +17,4 @@
 - Oracle DB with `employee1` and `tickets` tables
 - `ojdbc8.jar` JDBC driver
 
-## 🚀 How to Run
 
-1. Compile:

@@ -1,20 +1,15 @@
-# Helpdesk-Ticket-System-Java
+# Helpdesk Ticket System
 
-# Java Helpdesk Ticket System
+A simple console-based Helpdesk Ticket System developed using Java, JDBC, and MySQL.
 
-🧾 A simple CLI-based Helpdesk Ticketing App using:
-- Java (JDBC)
-- Oracle Database
+## Features
+- Add Ticket
+- View Tickets
+- Update Ticket
+- Delete Ticket
+
+## Technologies Used
+- Java
+- JDBC
+- MySQL
 - VS Code
-
-## 💡 Features
-- Add employee
-- Create ticket
-- View all tickets
-
-## 📦 Requirements
-- Java installed
-- Oracle DB with `employee1` and `tickets` tables
-- `ojdbc8.jar` JDBC driver
-
-
